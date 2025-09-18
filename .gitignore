@@ -7,7 +7,6 @@ __pycache__/
 env/
 venv/
 *.sqlite3
-node_modules/
 dist/
 build/
 .env
